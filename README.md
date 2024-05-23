@@ -1,9 +1,11 @@
-# Ru_language_ValhallaMMO
 # Русский языковой пакет ValhallaMMO
+
+![94921](https://github.com/timaermakof/Ru_language_ValhallaMMO/assets/110452159/3457befe-bd32-4971-a0a5-453d982d9cc5)
+
 Тут представлен перевод плагина ValhallaMMO.
 Весь код был переведён с помощью машинного обучения.
 
-Установка:
+# Установка:
 
 1) Установите файлы как показано в репозитории(в таком же пути)
 2) В config.yml измените параметр ```language: en-us``` на ```language: ru```
