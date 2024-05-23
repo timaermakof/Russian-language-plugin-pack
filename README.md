@@ -2,3 +2,4 @@
 
   1. [EcoEnchants](https://github.com/timaermakof/Russian-language-plugin-pack/tree/main/EcoEnchants)
   2. [VallhallaMMO](https://github.com/timaermakof/Russian-language-plugin-pack/tree/main/VallhallaMMO)
+  3. [ItemsAdder](https://github.com/timaermakof/Russian-language-plugin-pack/tree/main/ItemsAdder)
